@@ -1,0 +1,12 @@
+{
+    "colors": {
+        "lightblue": "#80A6FF",
+        "purple": "none"
+    },
+    "cfg": {
+        "intents": [
+            "GUILDS",
+            "GUILD_MESSAGES"
+        ]
+    }
+}
